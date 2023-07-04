@@ -1,5 +1,5 @@
 # swift-national-parks
-National Parks and other relevant information expanded on SwiftSovereignStates, ready to be used offline.
+National Parks and other relevant information expanded on [SwiftSovereignStates](https://github.com/RandomHashTags/swift-sovereign-states), ready to be used offline.
 
 ## Contributing
 Adding/improving functionality is always welcome, just make a PR.
