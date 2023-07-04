@@ -26,6 +26,9 @@ let package = Package(
             name: "SwiftNationalParks",
             dependencies: [
                 .product(name: "SwiftSovereignStates", package: "swift-sovereign-states"),
+            ],
+            resources: [
+                .process("Resources")
             ]
         ),
         .testTarget(
