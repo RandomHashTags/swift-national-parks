@@ -1,0 +1,732 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "arrecife_alacranes" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arrecife Alacranes"
+          }
+        }
+      }
+    },
+    "arrecife_de_puerto_morelos" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arrecife de Puerto Morelos"
+          }
+        }
+      }
+    },
+    "arrecifes_de_cozumel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arrecifes de Cozumel"
+          }
+        }
+      }
+    },
+    "arrecifes_de_xcalak" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arrecifes de Xcalak"
+          }
+        }
+      }
+    },
+    "bahia_de_loreto" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bahía de Loreto"
+          }
+        }
+      }
+    },
+    "barranca_del_cupatitzio" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barranca del Cupatitzio"
+          }
+        }
+      }
+    },
+    "basaseachic_falls" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Basaseachic Falls"
+          }
+        }
+      }
+    },
+    "benito_juarez" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benito Juárez"
+          }
+        }
+      }
+    },
+    "bosencheve" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bosencheve"
+          }
+        }
+      }
+    },
+    "cabo_pulmo" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cabo Pulmo"
+          }
+        }
+      }
+    },
+    "canon_del_rio_blanco" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cañón del Río Blanco"
+          }
+        }
+      }
+    },
+    "canon_del_sumidero" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cañón del Sumidero"
+          }
+        }
+      }
+    },
+    "cerro_de_garnica" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerro de Garnica"
+          }
+        }
+      }
+    },
+    "cerro_de_la_estrella" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerro de la Estrella"
+          }
+        }
+      }
+    },
+    "cerro_de_las_campanas" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerro del las Campanas"
+          }
+        }
+      }
+    },
+    "cofre_de_perote" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cofre de Perote"
+          }
+        }
+      }
+    },
+    "constitution_1857" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Constitution 1857"
+          }
+        }
+      }
+    },
+    "costa_occidental_de_isla_mujeres" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Costa Occidental de Isla Mujeres"
+          }
+        }
+      }
+    },
+    "cumbres_de_majalca" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cumbres de Majalca"
+          }
+        }
+      }
+    },
+    "cumbres_de_monterrey" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cumbres de Monterrey"
+          }
+        }
+      }
+    },
+    "cumbres_del_ajusco" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cumbres del Ajusco"
+          }
+        }
+      }
+    },
+    "desierto_de_los_leones" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desierto de los Leones"
+          }
+        }
+      }
+    },
+    "desierto_del_carmen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desierto del Carmen"
+          }
+        }
+      }
+    },
+    "dzibilchantun" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dzibilchantún"
+          }
+        }
+      }
+    },
+    "el_chico" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El Chico"
+          }
+        }
+      }
+    },
+    "el_cimatario" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El Cimatario"
+          }
+        }
+      }
+    },
+    "el_gogorron" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El Gogorrón"
+          }
+        }
+      }
+    },
+    "el_historico_coyoacan" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El Histórico Coyoacán"
+          }
+        }
+      }
+    },
+    "el_potosi" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El Potosí"
+          }
+        }
+      }
+    },
+    "el_sabinal" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El Sabinal"
+          }
+        }
+      }
+    },
+    "el_tepeyac" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El Tepeyac"
+          }
+        }
+      }
+    },
+    "el_tepozteco" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El Tepozteco"
+          }
+        }
+      }
+    },
+    "el_veladero" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El Veladero"
+          }
+        }
+      }
+    },
+    "fuentes_brotantes_de_tlalpan" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fuentes Brotantes de Tlalpan"
+          }
+        }
+      }
+    },
+    "general_juan_n_albarez" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "General Juan N. Álvarez"
+          }
+        }
+      }
+    },
+    "grutas_de_cacahuamilpa" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grutas de Cacahuamilpa"
+          }
+        }
+      }
+    },
+    "huatulco" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Huatulco"
+          }
+        }
+      }
+    },
+    "insurgente_jose_maria_morelos_y_pavon" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insurgente José María Morelos y Pavón"
+          }
+        }
+      }
+    },
+    "insurgente_miguel_hidalgo_y_costilla" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insurgente Miguel Hidalgo y Costilla"
+          }
+        }
+      }
+    },
+    "isla_contoy" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Isla Contoy"
+          }
+        }
+      }
+    },
+    "isla_isabel" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Isla Isabel"
+          }
+        }
+      }
+    },
+    "islas_marietas" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Islas Marietas"
+          }
+        }
+      }
+    },
+    "iztaccihuatl_popocatepetl" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iztaccíhuatl–Popocatépetl"
+          }
+        }
+      }
+    },
+    "la_malinche" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La Malinche"
+          }
+        }
+      }
+    },
+    "lago_de_camecuaro" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lago de Camécuaro"
+          }
+        }
+      }
+    },
+    "lagunas_de_chacahua" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lagunas de Chacahua"
+          }
+        }
+      }
+    },
+    "lagunas_de_montebello" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lagunas de Montebello"
+          }
+        }
+      }
+    },
+    "lagunas_de_zempoala" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lagunas de Zempoala"
+          }
+        }
+      }
+    },
+    "lomas_de_padierna" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lomas de Padierna"
+          }
+        }
+      }
+    },
+    "los_marmoles" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los Marmoles"
+          }
+        }
+      }
+    },
+    "los_novillos" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los Novillos"
+          }
+        }
+      }
+    },
+    "los_remedios" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los Remedios"
+          }
+        }
+      }
+    },
+    "molino_de_flores_nezahualcoyotl" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Molino de Flores Nezahualcóyotl"
+          }
+        }
+      }
+    },
+    "nevado_de_toluca" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nevado de Toluca"
+          }
+        }
+      }
+    },
+    "palenque" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Palenque"
+          }
+        }
+      }
+    },
+    "pico_de_orizaba" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pico de Orizaba"
+          }
+        }
+      }
+    },
+    "rayon" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rayón"
+          }
+        }
+      }
+    },
+    "sacromonte" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sacromonte"
+          }
+        }
+      }
+    },
+    "san_lorenzo_marine_archipelago" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "San Lorenzo Marine Archipelago"
+          }
+        }
+      }
+    },
+    "sierra_de_organos" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sierra de Órganos"
+          }
+        }
+      }
+    },
+    "sierra_de_san_pedro_martir" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sierra de San Pedro Mártir"
+          }
+        }
+      }
+    },
+    "sistema_arrecifal_veracruzano" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sistema Arrecifal Veracruzano"
+          }
+        }
+      }
+    },
+    "tula" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tula"
+          }
+        }
+      }
+    },
+    "tulum" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tulum"
+          }
+        }
+      }
+    },
+    "volcan_nevado_de_colima" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volcán Nevado de Colima"
+          }
+        }
+      }
+    },
+    "xicotencatl" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xicoténcatl"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
