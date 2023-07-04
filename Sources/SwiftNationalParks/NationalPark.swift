@@ -16,6 +16,8 @@ public protocol NationalPark : CaseIterable, RawRepresentable where RawValue == 
     /// SovereignStateSubdivisions where this NationalPark is located in.
     var subdivisions : [any SovereignStateSubdivision] { get }
     
+    var name : String { get }
+    
     var wikipedia_url : String? { get }
     var wikipedia_image_url_id : String? { get }
 }
