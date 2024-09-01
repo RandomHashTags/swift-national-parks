@@ -73,9 +73,7 @@ public enum NationalParksUnitedStates : String, NationalPark { // https://en.wik
     case yosmite
     case zion
     
-    public var country : Country {
-        return Country.united_states
-    }
+    public var country : Country { Country.united_states }
     
     public var countries : [Country] {
         switch self {

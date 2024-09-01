@@ -13,12 +13,8 @@ public enum NationalParksDominica : String, NationalPark { // https://en.wikiped
     case morne_diablotin
     case morne_trois
     
-    public var country : Country {
-        return Country.dominica
-    }
-    public var countries : [Country] {
-        return [Country.dominica]
-    }
+    public var country : Country { Country.dominica }
+    public var countries : [Country] { [Country.dominica] }
     public var subdivisions : [any SovereignStateSubdivision] {
         switch self {
         case .cabrits: return [SubdivisionsDominica.saint_john]

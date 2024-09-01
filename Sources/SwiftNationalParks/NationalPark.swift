@@ -24,9 +24,10 @@ public protocol NationalPark : CaseIterable, RawRepresentable where RawValue == 
 
 public extension NationalPark {
     var name : String {
-        let value:String.LocalizationValue = String.LocalizationValue(stringLiteral: rawValue)
+        //let value:String.LocalizationValue = String.LocalizationValue(stringLiteral: rawValue)
         let table:String = String(describing: type(of: self))
-        return String(localized: value, table: table, bundle: Bundle.module)
+        //return String(localized: value, table: table, bundle: Bundle.module)
+        return table + "." + rawValue // TODO: fix
     }
     var wikipedia_url : String? {
         return "https://en.wikipedia.org/wiki/" + name.url_encoded() + "_National_Park"

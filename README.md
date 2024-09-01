@@ -2,11 +2,11 @@
 National Parks and other relevant information expanded on [SwiftSovereignStates](https://github.com/RandomHashTags/swift-sovereign-states), ready to be used offline.
 
 ## Requirements
-- Swift >= 5.5
-- iOS >= 15.0
-- macOS >= 12.0
-- tvOS >= 15.0
-- watchOS >= 8.0
+- Swift >= 5.3
+- iOS >= 14
+- macOS >= 11
+- tvOS >= 14
+- watchOS >= 7
 
 ## Contributing
 Adding/improving functionality is always welcome, just make a PR.

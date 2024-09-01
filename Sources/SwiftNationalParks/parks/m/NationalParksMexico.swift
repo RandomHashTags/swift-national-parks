@@ -77,12 +77,8 @@ public enum NationalParksMexico : String, NationalPark { // https://en.wikipedia
     case xicotencatl
     
     
-    public var country : Country {
-        return Country.mexico
-    }
-    public var countries : [Country] {
-        return [Country.mexico]
-    }
+    public var country : Country { Country.mexico }
+    public var countries : [Country] { [Country.mexico] }
     
     public var subdivisions : [any SovereignStateSubdivision] {
         switch self {
