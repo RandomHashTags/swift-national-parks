@@ -8,7 +8,7 @@
 import Foundation
 import SwiftSovereignStates
 
-public enum NationalParksMexico : String, NationalPark { // https://en.wikipedia.org/wiki/List_of_national_parks_of_Mexico
+public enum NationalParksMexico : String, NationalParkCases { // https://en.wikipedia.org/wiki/List_of_national_parks_of_Mexico
     case arrecife_alacranes
     case arrecife_de_puerto_morelos
     case arrecifes_de_cozumel
@@ -75,7 +75,6 @@ public enum NationalParksMexico : String, NationalPark { // https://en.wikipedia
     case tulum
     case volcan_nevado_de_colima
     case xicotencatl
-    
     
     public var country : Country { Country.mexico }
     public var countries : [Country] { [Country.mexico] }

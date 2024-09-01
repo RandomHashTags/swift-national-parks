@@ -8,7 +8,7 @@
 import Foundation
 import SwiftSovereignStates
 
-public enum NationalParksUnitedStates : String, NationalPark { // https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States
+public enum NationalParksUnitedStates : String, NationalParkCases { // https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States
     case acadia
     case american_samoa
     case arches
@@ -72,9 +72,8 @@ public enum NationalParksUnitedStates : String, NationalPark { // https://en.wik
     case yellowstone
     case yosmite
     case zion
-    
+
     public var country : Country { Country.united_states }
-    
     public var countries : [Country] {
         switch self {
         case .american_samoa:

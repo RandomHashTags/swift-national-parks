@@ -8,7 +8,7 @@
 import Foundation
 import SwiftSovereignStates
 
-public enum NationalParksDominica : String, NationalPark { // https://en.wikipedia.org/wiki/List_of_national_parks_of_Dominica
+public enum NationalParksDominica : String, NationalParkCases { // https://en.wikipedia.org/wiki/List_of_national_parks_of_Dominica
     case cabrits
     case morne_diablotin
     case morne_trois
