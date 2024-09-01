@@ -22,7 +22,7 @@ public protocol AnyNationalPark {
     var wikipedia_image_url : String? { get }
 }
 public extension AnyNationalPark {
-    var id : String { country.iso_alpha_2! + "." + rawValue }
+    var id : String { (country.iso_alpha_2 ?? "?") + "." + rawValue }
     var name : String { rawValue } // TODO: fix
 }
 
